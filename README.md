@@ -12,7 +12,6 @@
 | Tutora | Dra. Beatriz Sánchez Reyes |
 | Año | 2026 |
 | Repositorio | https://github.com/jp-rodriguez-uam/Tesis-Resiliencia-Minorista-R |
-| Financiación | Secihti (antes CONAHCYT) – Becas de Posgrado en el Extranjero; UAM–Banco Santander Mobility Grant |
 
 ---
 
